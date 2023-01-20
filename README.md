@@ -1,6 +1,6 @@
 ### Version
 
-Spring boot 3.0.1
+Spring boot 2.7.8
 
 ### Basic dependency
 
